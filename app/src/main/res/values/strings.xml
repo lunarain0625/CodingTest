@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather Boi</string>
+    <string name="days_btn"><![CDATA[7 days (15 days not free API) >>]]></string>
+</resources>
